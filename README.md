@@ -119,8 +119,13 @@ Air India: 4500.00
 ...
 Cheapest Airline: SpiceJet at 3500.00 INR
 
+**Conclusion **
 
+**• Performed EDA on flight dataset, engineering 38 features from temporal and categorical data for price prediction
 
+• Utilized RandomizedSearchCV for hyperparameter tuning in XGBoost, achieving the R-squared value of 0.90
+
+• Secured a 4.75% reduction in RMSE over Random Forest, Optimized booking with 11-airline price predictions**
 
 
 Usage
